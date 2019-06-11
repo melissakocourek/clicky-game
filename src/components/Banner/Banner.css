@@ -1,9 +1,9 @@
 .jumbotron {
 	/*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
-	background: url("https://vignette.wikia.nocookie.net/pokemon-bb/images/5/50/Wiki-background/revision/latest?cb=20170219201855") center center no-repeat fixed #464646;
+	background: url("http://2014springccmasscomm1061.pbworks.com/f/1397538439/Pokemon_Logo.png") center center no-repeat fixed #464646;
 	font-family: Serif, Monospace;
 	width: auto;
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 h1, h4 {
@@ -12,16 +12,20 @@ h1, h4 {
 }
 
 .jumbotron.jumbotron-fluid.text-center {
-	background-color:#abb9d3;
+	background-color:#192653;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-position: 50% 50%;
-	background-size:50%;
-	height: 250px;
+	background-position: 50% 50%;
+	background-size: 100%;
+
 	
 }
 div.jumbotron.jumbotron-fluid.text-center {
-	margin-top: 50px;
+	padding-top: -120px;
+	padding-bottom: 400px;
+	margin-top:100px;
+
+	
 }

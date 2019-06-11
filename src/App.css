@@ -10,8 +10,15 @@
   pointer-events: none;
 }
 
+.bg-dark.navbar-dark.container-fluid.text-center.pt-1.pb-1 {
+  background-color:#192653;
+}
+div.row{
+  background-color:#192653;
+
+}
 .App-header {
-  background-color: #282c34;
+  background-color:#192653;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

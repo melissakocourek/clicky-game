@@ -4,8 +4,13 @@
 
 html,
 body,
-div.container {
-  background: transparent;
+div{
+  background: url("https://i.pinimg.com/originals/ae/07/ff/ae07fff9fe9758b44acc550b520a08d6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: auto;
+
 }
 #root,
 #root > div,

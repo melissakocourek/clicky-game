@@ -1,6 +1,5 @@
 .footer {
     min-height: 50px;
-    background: url("https://images7.alphacoders.com/333/333950.jpg") center center no-repeat fixed #464646;
     position: relative;
   }
   
@@ -10,5 +9,4 @@
     left: 0;
     right: 0;
     padding: 3px;
-    background: url("https://images7.alphacoders.com/333/333950.jpg") center center no-repeat fixed #464646;
   }

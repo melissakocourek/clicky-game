@@ -1,3 +1,4 @@
+
 .nounderline {
     text-decoration: none !important
   }
@@ -5,3 +6,8 @@
   #app-name {
       font-weight: bold;
   }
+
+  .bg-dark.navbar-dark.container-fluid.text-center.pt-1.pb-1 {
+     background: grey;
+  }
+  

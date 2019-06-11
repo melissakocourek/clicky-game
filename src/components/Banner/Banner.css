@@ -1,15 +1,14 @@
 .jumbotron {
 	/*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
-	background: url("http://paperlief.com/images/list-of-all-pixar-characters-wallpaper-3.jpg") center center no-repeat fixed #464646;
-
+	background: url("https://pokemonteams.printmighty.co.nz/assets/Uploads/pokemon.png") center center no-repeat fixed #464646;
 	font-family: Serif, Monospace;
-	height: 400px;
+	height: 500px;
+	margin-top: 50px;
 	width: auto;
-	opacity: 0.5;
+	opacity: 0.8;
 }
 
 h1, h4 {
-
 	color: black;
 	font-weight: bold;
 }

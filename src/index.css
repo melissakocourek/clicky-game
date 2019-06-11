@@ -4,6 +4,9 @@
 
 html,
 body,
+div.container {
+  background: transparent;
+}
 #root,
 #root > div,
 div[data-reactroot] {

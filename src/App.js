@@ -12,7 +12,7 @@ class App extends Component {
     clickedImages: [],
     score: 0,
     topScore: 0,
-    feedback: "Click an image to begin!",
+    feedback: "Click on any image to begin",
     gameStatus: 0 //gameStatus: 0 => game in progresss, 1 => game won, 2 => game lost
   };
 
